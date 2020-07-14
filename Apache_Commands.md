@@ -1,4 +1,4 @@
-# Useful Terminal Commands for Apache Server
+# Useful Terminal Commands for Apache Server on Linux (Ubuntu)
 
 1. To turn **off** Apache on system startup: `sudo update-rc.d apache2 disable`
 2. To turn **on** Apache on system startup: `sudo update-rc.d apache2 enable` (this is the default setting of Apache)
