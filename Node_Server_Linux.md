@@ -1,6 +1,6 @@
 # Run a Node Server on Linux (Ubuntu)
 
-_**Issue:**_ Ubuntu will not allow Node to be run on port 80 without admin rihgts.
+_**Issue:**_ Ubuntu will not allow Node to be run on port 80 _(any port < 1024)_ without admin rights.
 
 Rather than run Node with say `sudo npm start` these are a few options.
 
